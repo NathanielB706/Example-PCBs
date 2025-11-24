@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-22
+Add Net: Net with name "NetJ?_4" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Badschematic Member=Component C? *
+Added Member To Class: ClassName=Badschematic Member=Component J? 0530470410
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component U? ADC128S052QCMT
+Added Member To Class: ClassName=Badschematic Member=Component U? MSP430FR2355TPT

@@ -1,0 +1,45 @@
+Added Component: Designator=J?(MOLEX_0530470410)
+Add component (AddParameter): Name = "MF Part No."; Value = "0530470410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "530470410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(TSSOP-16N_4.4mmBody-1.2mm)
+Add component (AddParameter): Name = "MF Part No."; Value = "ADC128S052QCMT/NOPB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5.25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "ADC128S052CIMT/NOPB-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=3V3 Pin=U?-3
+Added Pin To Net: NetName=NetR?_2 Pin=U?-10
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_1 Pin=U?-12
+Added Pin To Net: NetName=NetJ?_1 Pin=U?-13
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=U?-42
+Added Net: Name=NetJ?_3
+Add Net: Net with name "NetJ?_4" already exists
+Added Pin To Net: NetName=NetU?_14 Pin=U?-14
+Added Pin To Net: NetName=NetU?_14 Pin=U?-15
+Added Pin To Net: NetName=NetU?_14 Pin=U?-47
+Added Net: Name=NetU?_14
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16
+Added Pin To Net: NetName=NetU?_16 Pin=U?-35
+Added Net: Name=NetU?_16
+Added Member To Class: ClassName=Badschematic Member=Component C? *
+Added Member To Class: ClassName=Badschematic Member=Component J? 0530470410
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component U? MSP430FR2355TPT
+Added Member To Class: ClassName=Badschematic Member=Component U? ADC128S052QCMT
+Added Rule: Name=Schematic Supply Nets_2

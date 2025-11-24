@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=R? NewDesignator=Rb
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=NetRa_2 Pin=Ra-2
+Added Pin To Net: NetName=NetRa_2 Pin=Rb-1
+Added Pin To Net: NetName=NetRa_2 Pin=U?-37
+Added Net: Name=NetRa_2
+Added Member To Class: ClassName=Badschematic Member=Component C? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component Ra *
+Added Member To Class: ClassName=Badschematic Member=Component Rb *
+Added Member To Class: ClassName=Badschematic Member=Component U? MSP430FR2355TPT

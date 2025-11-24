@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=R?-2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Add Net: Net with name "NetJ?_4" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Badschematic Member=Component C? *
+Added Member To Class: ClassName=Badschematic Member=Component J? 0530470410
+Add Class Member: Failed to add class member : Component R6 *
+Add Class Member: Failed to add class member : Component R7 *
+Add Class Member: Failed to add class member : Component R8 *
+Add Class Member: Failed to add class member : Component R9 *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=Badschematic Member=Component R? *
+Added Member To Class: ClassName=lessbadschematic Member=Component U3 MSP430FR2355TPT
+Added Member To Class: ClassName=Badschematic Member=Component U? LT6222IGN#PBFA
+Added Member To Class: ClassName=Badschematic Member=Component U? MSP430FR2355TPT
