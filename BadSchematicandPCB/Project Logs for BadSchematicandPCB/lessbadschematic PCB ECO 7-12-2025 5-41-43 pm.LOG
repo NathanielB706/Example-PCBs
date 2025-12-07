@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=GPIO2 Pin=U3-14
+Removed Pin From Net: NetName=GPIO1 Pin=U3-15
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found MOLEX_0530470410
+Add Component: Footprint Not Found MOLEX_0530470410
+Add Component: Footprint Not Found Resistor_0805_2012M-50N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found RESISTOR_0805_2012M-50N
+Add Component: Footprint Not Found Resistor_0805_2012M-50N
+Add Component: Footprint Not Found RESISTOR_0805_2012M-50N
+Add Component: Footprint Not Found RESISTOR_0805_2012M-50N
+Add Component: Footprint Not Found Resistor_0805_2012M-50N
+Add Component: Footprint Not Found Resistor_0805_2012M-50N
+Add Component: Footprint Not Found Resistor_0805_2012M-50N
+Add Component: Footprint Not Found LQFP_PT_48_N
+Add Component: Footprint Not Found SSOP-16N-3.9mmBody-1.75mm
+Add Component: Footprint Not Found TSSOP-16N_4.4mmBody-1.2mm
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-1
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Pin To Net: Unknown Pin: Pin J?-4
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin Ra-1
+Add Pin To Net: Unknown Pin: Pin Ra-2
+Add Pin To Net: Unknown Pin: Pin Rb-1
+Add Pin To Net: Unknown Pin: Pin Rb-2
+Add Pin To Net: Unknown Pin: Pin Rs-1
+Add Pin To Net: Unknown Pin: Pin Rs-2
+Added Pin To Net: NetName=GPIO1 Pin=U3-14
+Added Pin To Net: NetName=GPIO2 Pin=U3-15
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-10
+Add Pin To Net: Unknown Pin: Pin U?-11
+Add Pin To Net: Unknown Pin: Pin U?-12
+Add Pin To Net: Unknown Pin: Pin U?-13
+Add Pin To Net: Unknown Pin: Pin U?-14
+Add Pin To Net: Unknown Pin: Pin U?-15
+Add Pin To Net: Unknown Pin: Pin U?-16
+Add Pin To Net: Unknown Pin: Pin U?-22
+Add Pin To Net: Unknown Pin: Pin U?-35
+Add Pin To Net: Unknown Pin: Pin U?-37
+Add Pin To Net: Unknown Pin: Pin U?-42
+Add Pin To Net: Unknown Pin: Pin U?-43
+Add Pin To Net: Unknown Pin: Pin U?-47
+Add Net: Net with name "NetJ?_4" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Class Member: Failed to add class member : Component C? *
+Add Class Member: Failed to add class member : Component C? *
+Add Class Member: Failed to add class member : Component J? 0530470410
+Add Class Member: Failed to add class member : Component J? 0530470410
+Add Class Member: Failed to add class member : Component R? *
+Add Class Member: Failed to add class member : Component R? *
+Add Class Member: Failed to add class member : Component R? *
+Add Class Member: Failed to add class member : Component R? *
+Add Class Member: Failed to add class member : Component R? *
+Add Class Member: Failed to add class member : Component R? *
+Add Class Member: Failed to add class member : Component Ra *
+Add Class Member: Failed to add class member : Component Rb *
+Add Class Member: Failed to add class member : Component Rs *
+Add Class Member: Failed to add class member : Component U? MSP430FR2355TPT
+Add Class Member: Failed to add class member : Component U? LT6222IGN#PBFA
+Add Class Member: Failed to add class member : Component U? ADC128S052QCMT
